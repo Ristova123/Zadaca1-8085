@@ -93,7 +93,7 @@ RRC ; ACC се дели со 2
  IZLEZNA EQU F00Ah 
 ```
 
- ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-1/blob/main/8085A.png)
+ ![Screenshot (1)](https://github.com/Ristova123/Zadaca1-8085/blob/main/Zadaca-1-Code.png)
 
  
 
@@ -130,6 +130,6 @@ To run the program, you need an 8085 emulator or assembler. You can use emulator
 
 1. Download and install e8085.exe from [here](https://emu8086-microprocessor-emulator.en.softonic.com/).
 2. Clone this repository to your local machine.
-3. Open e8085.exe and load the `Zadaca 1 code.asm` file.
+3. Open e8085.exe and load the `zadaca-1-code.asm` file.
 4. Assemble the code by pressing the Assemble button.
 5. Run the program by pressing the Run button or by pressing F10.
