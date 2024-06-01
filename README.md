@@ -110,7 +110,7 @@ Microcomputer's systems
 
 This project is built using the following tools:
 
-- [e8085](https://emu8086-microprocessor-emulator.en.softonic.com/): Assembler and emulator for the Intel 8085 microprocessor.
+- [8085 simulator](https://github.com/8085simulator/8085simulator.github.io?tab=readme-ov-file) : Assembler and emulator for the Intel 8085 microprocessor.
 
 **Getting Started**
 
@@ -128,7 +128,7 @@ Setup
 
 To run the program, you need an 8085 emulator or assembler. You can use emulators like DOSBox or TASM (Turbo Assembler). Here's how to run the program using e8085.exe:
 
-1. Download and install e8085.exe from [here](https://emu8086-microprocessor-emulator.en.softonic.com/).
+1. Download and install 8085 simulator from [here](https://github.com/8085simulator/8085simulator.github.io?tab=readme-ov-file).
 2. Clone this repository to your local machine.
 3. Open e8085.exe and load the `zadaca-1-code.asm` file.
 4. Assemble the code by pressing the Assemble button.
