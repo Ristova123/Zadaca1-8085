@@ -93,9 +93,8 @@ RRC ; ACC се дели со 2
  IZLEZNA EQU F00Ah 
 ```
 
-![Screenshot (1)](https://github.com/Ristova123/Zadaca1-8086/blob/main/Zadaca1.1%208086%20code.png)
-![Screenshot (2)](https://github.com/Ristova123/Zadaca1-8086/blob/main/Zadaca1.2%208086%20code.png)
-![Screenshot (3)](https://github.com/Ristova123/Zadaca1-8086/blob/main/Zadaca1.3%208086%20code.png)
+![Screenshot (1)](https://github.com/Ristova123/Zadaca1-8085/blob/main/Zadaca-1-Code.png)
+
 
 **Develop by:**
 
